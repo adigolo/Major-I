@@ -1,0 +1,4 @@
+Neural network predicts the image to be of 
+Arushi
+with probablity
+ 0.90207
